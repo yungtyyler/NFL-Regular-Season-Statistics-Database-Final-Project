@@ -24,7 +24,9 @@ A table describing the API endpoints that made sense for this project that were 
 | ------------- | ------- | --------------------------- |
 |     Index     |   GET   |           teams             |
 |     Show      |   GET   |          teams/id           |
-| Update Games  |   PUT   |   teams/id AND JSON request |  
+|     Update    |   PUT   |   teams/id AND JSON request |
+|     Create    |   POST  |      teams AND JSON request |
+|     Delete    |  DELETE |          teams/id           |
 
 ### Questions  
 1) When I began this project, I had initially wanted to create a database that acted as a save file and directory of information for my python game from the fundamentals course. However, once we got into week two I began to realize that it would be a bit out of scope for this class and would require a lot more time than 4 weeks to achieve the result I wanted. I figured a sports statistics database would be a good idea since the NFL regular season is comming to a close and it is something a lot of people are interested in at the moment. The design idea of my project was pretty isocrsatic throughout the process, however I did make a few tweaks to column constraints here and there such as making city and state columns nullable and making team names unique.  
