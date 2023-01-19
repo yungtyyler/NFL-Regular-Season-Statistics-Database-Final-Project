@@ -1,0 +1,33 @@
+id,City,Name,State,Home Color,Wins,Losses,Ties,division_id,conference_id
+1,,Cardinals,Arizona,Red,4,13,0,8,2
+2,Atlanta,Falcons,Georgia,Red,7,10,0,5,2
+3,Baltimore,Ravens,Maryland,Purple,10,7,0,2,1
+4,Buffalo,Bills,New York,Blue,13,3,0,3,1
+5,,Panthers,Carolina,Blue,7,10,0,5,2
+6,Chicago,Bears,Illinois,Blue,3,14,0,6,2
+7,Cincinnati,Bengals,Ohio,Orange,12,4,0,2,1
+8,Cleveland,Browns,Ohio,Brown,7,10,0,2,1
+9,Dallas,Cowboys,Texas,Blue,12,5,0,7,2
+10,Denver,Broncos,Colorado,Orange,5,12,0,4,1
+11,Detroit,Lions,Michigan,Blue,9,8,0,6,2
+12,Green Bay,Packers,Wisconsin,Green,8,9,0,6,2
+13,Houston,Texans,Texas,Blue,3,13,1,1,1
+14,Indianapolis,Colts,Indiana,Blue,4,12,1,1,1
+15,Jacksonville,Jaguars,Florida,Black,9,8,0,1,1
+16,Kansas City,Chiefs,Missouri,Red,14,3,0,4,1
+17,Las Vegas,Raiders,Nevada,Black,6,11,0,4,1
+18,Los Angeles,Chargers,California,Blue,10,7,0,4,1
+19,Los Angeles,Rams,California,Blue,5,12,0,8,2
+20,Miami,Dolphins,Florida,Blue,9,8,0,3,1
+21,,Vikings,Minnesota,Purple,13,4,0,6,2
+22,,Patriots,New England,Blue,8,9,0,3,1
+23,New Orleans,Saints,Louisiana,Gold,7,10,0,5,2
+24,,Giants,New York,Blue,9,7,1,7,2
+25,,Jets,New York,Green,7,10,0,3,1
+26,Philadelphia,Eagles,Pennsylvania,Green,14,3,0,7,2
+27,Pittsburgh,Steelers,Pennsylvania,Gold,9,8,0,2,1
+28,San Francisco,49ers,California,Red,13,4,0,8,2
+29,Seattle,Seahawks,Washington,Blue,9,8,0,8,2
+30,Tampa Bay,Buccaneers,Florida,Red,8,9,0,5,2
+31,,Titans,Tennessee,Blue,7,10,0,1,1
+32,,Commanders,Washington DC,Burgundy,8,8,1,7,2

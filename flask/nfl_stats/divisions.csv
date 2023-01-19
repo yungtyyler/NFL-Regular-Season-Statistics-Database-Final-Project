@@ -1,0 +1,9 @@
+id,Name,Region,conference_id
+1,AFC South,South,1
+2,AFC North,North,1
+3,AFC East,East,1
+4,AFC West,West,1
+5,NFC South,South,2
+6,NFC North,North,2
+7,NFC East,East,2
+8,NFC West,West,2
